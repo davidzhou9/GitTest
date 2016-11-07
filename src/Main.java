@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         add(2, 3);
+        subtract(3, 1);
     }
 
     // function to print out the sum of two ints
